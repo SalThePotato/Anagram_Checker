@@ -1,2 +1,2 @@
 # Anagram_Checker
-Just a little practice project. There really isn't anything much to this project I just made it to practice and I wanted a backup so yea. Have fun with my code. 
+Just a little practice project. There really isn't anything much to this project I just made it to practice and I wanted a backup so yea. Have fun with my code. All the files are just the Visual Studio 2019 project. Literally the entire project. There is only 1 file though, the main.cpp file with all the code. There is only a couple functions in it though. I hope all the comments make it easy to understand. 
