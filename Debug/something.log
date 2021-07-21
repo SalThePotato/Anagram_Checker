@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Family\source\repos\something\main.cpp(14,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Family\source\repos\something\main.cpp(45,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Family\source\repos\something\main.cpp(51,12): warning C4018: '<': signed/unsigned mismatch
+  something.vcxproj -> C:\Users\Family\source\repos\something\Debug\something.exe
